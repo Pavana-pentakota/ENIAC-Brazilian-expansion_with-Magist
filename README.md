@@ -72,7 +72,9 @@ CSV — final data export format used for the Tableau workbook
 - Raw data files are available in the data/ folder if you'd like to explore the source CSVs directly.
 
 ## Future Work
-- Incorporate freight cost analysis to assess whether shipping fees affect tech product competitiveness.
-- Extend the delivery-buffer analysis by state to check whether estimate padding varies by region, not just by product type.
-- Model an updated estimated-delivery formula based on actual historical delivery times, to give Magist a concrete target for the recommended algorithm change.
-- Add a payment-method breakdown (installments, credit card, boleto) to see if it correlates with tech vs. non-tech purchasing behavior.
+- How many products are being discounted?
+- How big are the offered discounts as a percentage of the product prices?
+- How do seasonality and special dates (Christmas, Black Friday) affect sales?
+- How should products be classified into different categories to simplify reports and analysis?
+- What is the distribution of product prices across different categories?
+- How could data collection be improved?
