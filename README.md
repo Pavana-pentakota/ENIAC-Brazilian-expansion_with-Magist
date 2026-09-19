@@ -1,4 +1,4 @@
-# ENIAC Brazilian expansion with Magist
+# ENIAC Brazilian expansion with Magist (Phase 1)
 Business analysis for Eniac's Brazil expansion via Magist — Tableau dashboards on product fit, seller performance, and delivery
 
 **Full project documentation:** [View on Confluence] https://pentakotapavanakumari.atlassian.net/wiki/spaces/MBC1/overview?homepageId=4292803
@@ -39,9 +39,9 @@ Business analysis for Eniac's Brazil expansion via Magist — Tableau dashboards
 - ![geographic_expansion](screenshots/geographic_expansion.png)
 
 ## Tools Used
-Tableau Desktop — data modeling (relationships), calculated fields, dashboards, and story
-MySQL — initial data exploration and creation of the Tech/Non-Tech classification column
-CSV — final data export format used for the Tableau workbook
+- Tableau Desktop — data modeling (relationships), calculated fields, dashboards, and story
+- MySQL — initial data exploration and creation of the Tech/Non-Tech classification column
+- CSV — final data export format used for the Tableau workbook
 
 ## Project Structure
 - magist-eniac-tableau-analysis/
@@ -70,10 +70,15 @@ CSV — final data export format used for the Tableau workbook
 - To explore interactively: open tableau/magist_eniac_analysis.twbx.
 - Raw data files are available in the data/ folder if you'd like to explore the source CSVs directly.
 
-## Future Work
-- How many products are being discounted?
-- How big are the offered discounts as a percentage of the product prices?
-- How do seasonality and special dates (Christmas, Black Friday) affect sales?
-- How should products be classified into different categories to simplify reports and analysis?
-- What is the distribution of product prices across different categories?
-- How could data collection be improved?
+## ## Next Steps: Phase 2 - ENIAC Discount Strategy
+- Phase 1 evaluated whether Magist is the right partner for Eniac's Brazil expansion. 
+- Phase 2 builds on it by looking at pricing and promotions in Eniac's own data.
+1. How many products are discounted?
+2. How big are the discounts as a % of price?
+3. How do seasonality and special dates (Black Friday, Christmas) affect sales?
+4. How can products be categorized for reporting?
+5. How are prices distributed across categories?
+6. How could data collection be improved?
+
+**Repo:** [link] | 
+**Documentation:** [Confluence link]
