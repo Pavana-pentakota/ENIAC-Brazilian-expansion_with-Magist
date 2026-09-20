@@ -70,7 +70,8 @@ Business analysis for Eniac's Brazil expansion via Magist — Tableau dashboards
 - To explore interactively: open tableau/magist_eniac_analysis.twbx.
 - Raw data files are available in the data/ folder if you'd like to explore the source CSVs directly.
 
-## Next Steps: Phase 2 - ENIAC Discount Strategy
+## Next Steps: Phase 2 
+- ENIAC Discount Strategy
 - Phase 1 evaluated whether Magist is the right partner for Eniac's Brazil expansion. 
 - Phase 2 builds on it by looking at pricing and promotions in Eniac's own data.
 1. How many products are discounted?
@@ -82,7 +83,7 @@ Business analysis for Eniac's Brazil expansion via Magist — Tableau dashboards
 
 **Repo:** https://github.com/Pavana-pentakota/ENIAC-Discount-Strategy-Analysis 
 
-**Documentation:** https://pentakotapavanakumari.atlassian.net/wiki/spaces/EDSP2/overview?homepageId=7471316
+
 
 Author
 Pavana Pentakota | www.linkedin.com/in/pavanapentakota
