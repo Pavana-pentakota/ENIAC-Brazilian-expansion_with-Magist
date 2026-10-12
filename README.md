@@ -81,7 +81,5 @@ Business analysis for Eniac's Brazil expansion via Magist — Tableau dashboards
 
 **Repo:** https://github.com/Pavana-pentakota/ENIAC-Discount-Strategy-Analysis 
 
-
-
-Author
+**Author**
 Pavana Pentakota | www.linkedin.com/in/pavanapentakota
